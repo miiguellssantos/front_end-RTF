@@ -1,0 +1,36 @@
+nav{
+    background: #121212;
+    border-bottom: 1px solid red;
+}
+
+a{
+    color:rgb(97, 97, 97);
+}
+
+a:hover{
+    color: white;
+}
+
+.nav-brand:hover{
+    height: 80px;
+    width: 160px;
+    border:rgb(97, 97, 97) 2px solid;
+    border-radius: 5px;
+    padding: 10px auto;
+}
+
+main{
+    background-color:#121212;
+    color: white;
+}
+
+footer{
+    background-color: #121212;
+    border-top: solid 1.5px rgba(255, 0, 0, 0.2);
+    color: rgba(255, 255, 255, 0.5);
+}
+
+img{
+    width: 100%;
+}
+
